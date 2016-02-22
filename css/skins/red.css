@@ -1,0 +1,47 @@
+/* ====================================================
+
+	File Name: Red Theme (red-theme.css)
+	Description: Red theme for Canvas
+	Author: Donny Burnside
+	Author URI: http://www.donnyburnside.co.uk
+	Version: 1.0.0
+	License: GNU General Public License v3.0
+	License URI: http://www.gnu.org/licenses/gpl.html
+
+	Canvas - A Free Website Template by Donny Burnside
+	Copyright 2015 Donny Burnside
+	Distributed under the terms of the GNU GPL
+
+	For help and support please visit http://www.donnyburnside.co.uk
+
+   ==================================================== */
+
+/* ====================================================
+	Accent Colour (Links, buttons, borders, etc)
+   ==================================================== */
+
+/* Colour */
+.red-skin a,
+.red-skin .post .entry-title,
+.red-skin .author-name,
+.red-skin .posts-by-author-title {
+	color:#c00;
+}
+
+/* Background Colour */
+.red-skin #masthead,
+.red-skin #isotope-menu,
+.red-skin .isotope-item a .overlay,
+.red-skin .project-description-title:after,
+.red-skin .project-details-title:after,
+.red-skin .button,
+.red-skin input[type="submit"],
+.red-skin input[type="cancel"],
+::selection {
+	background-color:#c00;
+}
+
+/* Borders */
+.red-skin #prefooter {
+	border-color:#c00;
+}

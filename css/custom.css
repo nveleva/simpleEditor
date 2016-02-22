@@ -1,0 +1,14 @@
+.btn-edit{
+	position: absolute;
+	right: 50px;
+	top: 30px;
+}
+.modal-title{
+	color: blue;
+}
+.modal-body{
+	color: black;
+}
+.colorpicker{
+	z-index: 9999;
+}

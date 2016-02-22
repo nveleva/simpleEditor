@@ -1,0 +1,47 @@
+/* ====================================================
+
+	File Name: Orange Theme (orange-theme.css)
+	Description: Orange theme for Canvas
+	Author: Donny Burnside
+	Author URI: http://www.donnyburnside.co.uk
+	Version: 1.0.0
+	License: GNU General Public License v3.0
+	License URI: http://www.gnu.org/licenses/gpl.html
+
+	Canvas - A Free Website Template by Donny Burnside
+	Copyright 2015 Donny Burnside
+	Distributed under the terms of the GNU GPL
+
+	For help and support please visit http://www.donnyburnside.co.uk
+
+   ==================================================== */
+
+/* ====================================================
+	Accent Colour (Links, buttons, borders, etc)
+   ==================================================== */
+
+/* Colour */
+.orange-skin a,
+.orange-skin .post .entry-title,
+.orange-skin .author-name,
+.orange-skin .posts-by-author-title {
+	color:#F09A4D;
+}
+
+/* Background Colour */
+.orange-skin #masthead,
+.orange-skin #isotope-menu,
+.orange-skin .isotope-item a .overlay,
+.orange-skin .project-description-title:after,
+.orange-skin .project-details-title:after,
+.orange-skin .button,
+.orange-skin input[type="submit"],
+.orange-skin input[type="cancel"],
+::selection {
+	background-color:#F09A4D;
+}
+
+/* Borders */
+.orange-skin #prefooter {
+	border-color:#F09A4D;
+}
